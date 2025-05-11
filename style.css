@@ -206,8 +206,7 @@ h3{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
-    background-attachment: fixed;
-   
+    background-attachment: fixed;  
 }
 h4 {
     text-align:center;
@@ -292,9 +291,7 @@ span:hover {
 .contact {
     margin-top: 2rem;
 }
-.ion{
-   
-}
+
 figcaption {
     margin-top: 1rem;
     margin-bottom: 1rem;  
